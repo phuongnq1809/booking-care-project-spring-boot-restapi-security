@@ -1,3 +1,6 @@
+/*
+* App, Security Config Class
+*/
 package phuongnq.asm3.security;
 
 import jakarta.servlet.http.HttpServletResponse;
