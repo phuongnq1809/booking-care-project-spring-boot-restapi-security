@@ -1,3 +1,6 @@
+/*
+* Booking Repository
+*/
 package phuongnq.asm3.dao;
 
 import org.springframework.data.jpa.repository.JpaRepository;
