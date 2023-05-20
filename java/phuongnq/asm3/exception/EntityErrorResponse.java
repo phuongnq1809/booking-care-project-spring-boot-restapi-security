@@ -1,3 +1,6 @@
+/*
+* Entity Error Response
+*/
 package phuongnq.asm3.exception;
 
 public class EntityErrorResponse {
