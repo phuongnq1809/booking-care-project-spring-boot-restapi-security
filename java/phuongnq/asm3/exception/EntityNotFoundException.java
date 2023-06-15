@@ -1,3 +1,6 @@
+/*
+* Entity not found exception
+*/
 package phuongnq.asm3.exception;
 
 public class EntityNotFoundException extends RuntimeException {
